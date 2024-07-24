@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721763252 source:d:\test\pwnlv8.0\test.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<algorithm>
+

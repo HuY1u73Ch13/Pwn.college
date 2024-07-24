@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721677943 source:d:\test\pwnlv5.0\test.cpp
+	<iostream>
+	<iomanip>
+
